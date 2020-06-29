@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Black And White Studios
 
-You can use the [editor on GitHub](https://github.com/bawsorballs/Label/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Music is routinely categorized, pigeonholed and generally boxed in. It's no good for those creative souls who push the envelope a little and fear alienating their audience. They have to make a decision to be black or white.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Not anymore.
 
-### Markdown
+Black And White Studios started with the intention to showcase some of the best independent music that we find, regardless of genre or style.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What We Do
+
+We are a cooperative of artists that try to help others by
 
 ```markdown
-Syntax highlighted code block
+- providing a platform for promotion
+- guidance on maneuvering the industry
+- services for success (audio/visual)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bawsorballs/Label/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
